@@ -5,3 +5,5 @@ include!("koans/01_constructors/02_two_dimensional.rs");
 include!("koans/01_constructors/03_three_dimensional.rs");
 include!("koans/01_constructors/04_random.rs");
 include!("koans/01_constructors/05_random_take2.rs");
+include!("koans/02_cluster_generation/00_origin.rs");
+include!("koans/02_cluster_generation/01_as_a_function.rs");
