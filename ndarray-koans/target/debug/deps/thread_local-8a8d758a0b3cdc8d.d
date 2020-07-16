@@ -1,0 +1,10 @@
+/Users/mohamedkane/Downloads/Blackchain x Systems Engineering/ndarray-koans/target/debug/deps/thread_local-8a8d758a0b3cdc8d.rmeta: /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/lib.rs /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/thread_id.rs /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/unreachable.rs /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/cached.rs
+
+/Users/mohamedkane/Downloads/Blackchain x Systems Engineering/ndarray-koans/target/debug/deps/libthread_local-8a8d758a0b3cdc8d.rlib: /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/lib.rs /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/thread_id.rs /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/unreachable.rs /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/cached.rs
+
+/Users/mohamedkane/Downloads/Blackchain x Systems Engineering/ndarray-koans/target/debug/deps/thread_local-8a8d758a0b3cdc8d.d: /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/lib.rs /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/thread_id.rs /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/unreachable.rs /Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/cached.rs
+
+/Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/lib.rs:
+/Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/thread_id.rs:
+/Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/unreachable.rs:
+/Users/mohamedkane/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.0.1/src/cached.rs:
